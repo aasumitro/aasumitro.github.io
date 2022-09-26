@@ -1,0 +1,1 @@
+import a from"./PageHeading.a88564fc.js";import{_ as t}from"./PostItems.vue_vue_type_script_setup_true_lang.d57cf986.js";import{o as r,x as n,S as o,u as e}from"./entry.0dd8dd20.js";import"./AppLogo.6142b9db.js";const s={class:"container font-mono max-w-full mx-auto"},l={__name:"index",setup(m){return(c,_)=>(r(),n("div",s,[o(e(a)),o(e(t))]))}};export{l as default};
