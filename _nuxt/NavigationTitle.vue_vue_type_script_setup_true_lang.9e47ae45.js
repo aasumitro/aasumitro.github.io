@@ -1,0 +1,1 @@
+import{f as e,o as s,x as a,L as o,P as i}from"./entry.3f897fd7.js";const n={class:"title-small"},c={class:"dark:text-gray-300"},p=e({__name:"NavigationTitle",props:["title"],setup(t){return(r,l)=>(s(),a("div",n,[o("p",c,i(t.title),1)]))}});export{p as _};

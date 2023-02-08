@@ -1,0 +1,1 @@
+import"./NavigationMenu.vue_vue_type_script_setup_true_lang.ca9ffff5.js";import{_ as t}from"./NavigationMenu.vue_vue_type_script_setup_true_lang.ca9ffff5.js";import"./entry.3f897fd7.js";export{t as default};
