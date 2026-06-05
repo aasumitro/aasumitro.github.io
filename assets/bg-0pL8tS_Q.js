@@ -1,0 +1,1 @@
+import{U as t}from"./vendor-ui-BALMVzHp.js";function a(){return t.jsx("div",{className:"absolute top-0 left-1/2 -z-10 h-100 w-full -translate-x-1/2 bg-linear-to-b from-red-500/10 to-transparent opacity-40 blur-[120px] dark:opacity-20"})}export{a as B};
